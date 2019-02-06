@@ -12,16 +12,16 @@ They are free for personal use and also free for commercial use, but [icons8] re
 Just copy the `img` tags below in your HTML or Markdown.
 
 ```html
-<img src="https://rawgit.com/fibo/os-icons8/master/Apple-50.png" width="50" height="50" />
-<img src="https://rawgit.com/fibo/os-icons8/master/Linux-50.png" width="50" height="50" />
-<img src="https://rawgit.com/fibo/os-icons8/master/Free_BSD-50.png" width="50" height="50" />
-<img src="https://rawgit.com/fibo/os-icons8/master/Windows8-50.png" width="50" height="50" />
+<img src="https://g14n.info/os-icons8/Apple-50.png" width="50" height="50" />
+<img src="https://g14n.info/os-icons8/Linux-50.png" width="50" height="50" />
+<img src="https://g14n.info/os-icons8/Free_BSD-50.png" width="50" height="50" />
+<img src="https://g14n.info/os-icons8/Windows8-50.png" width="50" height="50" />
 ```
 
-<img src="https://rawgit.com/fibo/os-icons8/master/Apple-50.png" width="50" height="50" />
-<img src="https://rawgit.com/fibo/os-icons8/master/Linux-50.png" width="50" height="50" />
-<img src="https://rawgit.com/fibo/os-icons8/master/Free_BSD-50.png" width="50" height="50" />
-<img src="https://rawgit.com/fibo/os-icons8/master/Windows8-50.png" width="50" height="50" />
+<img src="https://g14n.info/os-icons8/Apple-50.png" width="50" height="50" />
+<img src="https://g14n.info/os-icons8/Linux-50.png" width="50" height="50" />
+<img src="https://g14n.info/os-icons8/Free_BSD-50.png" width="50" height="50" />
+<img src="https://g14n.info/os-icons8/Windows8-50.png" width="50" height="50" />
 
 Do not forget to link [icons8] to thank them for free icons, for instance add the following snippet in your HTML or Markdown.
 
